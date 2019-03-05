@@ -32,8 +32,10 @@ To complete these assignment you need to fork this repo. When you're done you ca
 <h5>In Mobile view</h5>
 <ul>
   <li>Column 1 changes to accordion.</li>
-	<li>Column 2 is a slider with images from column 3 as background images.</li>
+  <li>Column 2 is a slider with images from column 3 as background images.</li>
 </ul>
+
+<strong>Note: Please refer to the files directory for design files, relevant icons/images and styleguide.</strong>
 
 <h2>Technical questions</h2>
 
